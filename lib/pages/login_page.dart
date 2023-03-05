@@ -204,7 +204,8 @@ class _LoginPageState extends State<LoginPage> {
                     SizedBox(width: 25),
 
                     // apple button
-                    SquareTile(onTap: () {}, imagePath: 'lib/images/apple.png')
+                    SquareTile(
+                        onTap: () {}, imagePath: 'lib/images/facebook.png')
                   ],
                 ),
 
